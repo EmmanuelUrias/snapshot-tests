@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="mx-auto card border-dark"
+    style={
+      Object {
+        "marginTop": "100px",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="User Image"
+      className="card-img-top"
+      src="./images (1).png"
+    />
+    <div
+      className="card-body"
+      style={
+        Object {
+          "margin": "17px",
+        }
+      }
+    >
+      <div
+        className="card-title h5"
+      >
+        Marshall Mathers
+      </div>
+      <p
+        className="card-text"
+      >
+        A famous rapper that goes by the name Eminem but also loves to professionally code by console.logging 'hello, world'
+      </p>
+    </div>
+  </div>
+</div>
+`;
